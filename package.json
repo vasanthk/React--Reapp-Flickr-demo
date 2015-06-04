@@ -1,0 +1,24 @@
+{
+  "name": "React-Reapp-Flickr-demo",
+  "version": "1.0.0",
+  "description": "The app searches and shows photos from Flickr. Built with Reapp, which leverages JavaScript and React.",
+  "main": "./app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasanthk/React-Reapp-Flickr-demo.git"
+  },
+  "keywords": [
+    "react",
+    "reapp",
+    "flickr"
+  ],
+  "author": "Vasanth Krishnamoorthy (http://www.vasanthk.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasanthk/React-Reapp-Flickr-demo/issues"
+  },
+  "homepage": "https://github.com/vasanthk/React-Reapp-Flickr-demo"
+}
